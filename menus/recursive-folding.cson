@@ -1,0 +1,18 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Fold Recursive'
+      'submenu': [
+        {
+          'label': 'Fold'
+          'command': 'recursive-folding:fold'
+        },
+        {
+          'label': 'Unfold'
+          'command': 'recursive-folding:unfold'
+        }
+      ]
+    ]
+  }
+]
