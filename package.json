@@ -1,16 +1,17 @@
 {
   "name": "recursive-folding",
   "main": "./lib/recursive-folding",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Recursively folds nested blocks of code like PhpStorm does.",
   "keywords": [
-    "fold", "folding", "recursive"
+    "fold",
+    "folding",
+    "recursive"
   ],
   "repository": "https://github.com/zhdanjj/atom-recursive-folding",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
