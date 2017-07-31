@@ -1,7 +1,7 @@
 {
   "name": "recursive-folding",
   "main": "./lib/recursive-folding",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Recursively folds nested blocks of code like PhpStorm does.",
   "keywords": [
     "fold",
